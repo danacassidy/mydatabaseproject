@@ -1,0 +1,35 @@
+
+
+th {
+  background: #635b6a;
+  vertical-align: bottom;
+  color: #fff;
+  height: 100%;
+}
+
+
+/* striping every other row */
+#newspaperform{
+  align-self: center;
+}
+
+
+
+/* media queries */
+
+
+@media screen and ( max-width: 750px ) {
+  #container {
+    width: 100%;
+        margin-bottom: 15px;
+        overflow-y: hidden;
+        -ms-overflow-style: -ms-autohiding-scrollbar;
+        border: 1px solid #ddd;
+  }
+  table {
+    width: 100%;
+          margin-bottom: 15px;
+          overflow-y: hidden;
+          -ms-overflow-style: -ms-autohiding-scrollbar;
+          border: 1px solid #ddd;
+  }
