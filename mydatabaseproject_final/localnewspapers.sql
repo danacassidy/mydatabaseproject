@@ -47,7 +47,7 @@ INSERT INTO `localnewspapers` (`id`, `newspaper`, `state`, `city`, `website_link
 (5, 'The South Florida Sun Sentinel', 'FL', 'Ft. Lauderdale', 'sun-sentinel.com'),
 (6, 'The Los Angeles Times', 'CA', 'Los Angeles', 'latimes.com'),
 (7, 'The Gainesville Sun', 'FL', 'Gainesville', 'gainesville.com'),
-(9, 'Oregonian', 'OR', 'Portland', 'Oregon'),
+(9, 'Houston Chronicle', 'TX', 'Houston', 'Texas'),
 (10, 'Sarasota Herald-Tribune', 'FL', 'Sarasota', 'Herald-tribune.com'),
 (11, 'Orlando Sentinel', 'FL', 'Orlando ', 'Orlandosentinel.com');
 
